@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/area-service/area-service.iml" filepath="$PROJECT_DIR$/area-service/area-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-lab2.iml" filepath="$PROJECT_DIR$/.idea/backend-lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculo-planilla-service/calculo-planilla-service.iml" filepath="$PROJECT_DIR$/calculo-planilla-service/calculo-planilla-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/categoria-service/categoria-service.iml" filepath="$PROJECT_DIR$/categoria-service/categoria-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hora-extra-service/hora-extra-service.iml" filepath="$PROJECT_DIR$/hora-extra-service/hora-extra-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/justificativo-service/justificativo-service.iml" filepath="$PROJECT_DIR$/justificativo-service/justificativo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pago-service/pago-service.iml" filepath="$PROJECT_DIR$/pago-service/pago-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personal-service/personal-service.iml" filepath="$PROJECT_DIR$/personal-service/personal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reloj-service/reloj-service.iml" filepath="$PROJECT_DIR$/reloj-service/reloj-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reporte-planilla-service/reporte-planilla-service.iml" filepath="$PROJECT_DIR$/reporte-planilla-service/reporte-planilla-service.iml" />
+    </modules>
+  </component>
+</project>
